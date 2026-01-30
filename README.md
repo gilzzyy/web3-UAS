@@ -203,19 +203,4 @@ pemweb3/
 | Transaksi gagal | Pastikan gas fee cukup |
 | Backend error | Pastikan server berjalan di port 3001 |
 
----
 
-## 👤 Author
-
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Mata Kuliah:** Pemrograman Web 3  
-**Tahun:** 2026
-
----
-
-<div align="center">
-
-Made with ❤️ using **React**, **Node.js**, and **Ethereum Blockchain**
-
-</div>
